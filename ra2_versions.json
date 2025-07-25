@@ -1,0 +1,48 @@
+{
+"id": 1,
+"title": "红色警戒 2 - 原版",
+"category": "original",
+"badge": "红警官方原版",
+"badgeColor": "bg-primary",
+"image": "https://tse4.mm.bing.net/th/id/OIP.6S0TIHDy3wCY0fVVOfUbLAHaEg?w=1198&h=728&rs=1&pid=ImgDetMain&o=7&rm=3",
+"description": "这是官方红警 2 原版的最后一个版本，也是公认原版平衡性最好的版本。它于 2001 年 6 月发布，是对 1.005 版本的一个小热修复补丁。相比 1.000 版本，1.006 版本修复了一些 BUG，比如空投建筑物的问题，还增加了一些快捷操作，例如双击数字编号，对应编队部队就可以出现在画面中间。",
+"year": "2001 年",
+"version": "1.006",
+"downloadUrl": "https://pan.baidu.com/s/1X_wViXyjFflHIPZo8wcxwg?pwd=qpxt"
+},
+{
+"id": 2,
+"title": "红色警戒 2 - 尤里的复仇",
+"category": "original",
+"badge": "红警官方原版",
+"badgeColor": "bg-primary",
+"image": "https://hj.xa4.com/zb_users/upload/2025/07/20250707092524175185152440699.png",
+"description": "作为《红色警戒 2》的官方资料片，新增独立阵营" 尤里军团 "，带来心灵控制特色单位。包含 14 个全新战役任务，盟军与苏军阵营各新增 5 种专属单位，优化了多人对战平衡性，修复原版多处 BUG，支持 8 人联机对战。",
+"year": "2001 年",
+"version": "1.001",
+"downloadUrl": "https://pan.baidu.com/s/1T6Q30Ahj5WLI6hP1hNIiFQ?pwd=4a9i"
+},
+{
+"id": 3,
+"title": "红色警戒 2 - 共和国之辉",
+"category": "mod",
+"badge": "玩家模组",
+"badgeColor": "bg-accent",
+"image": "https://hj.xa4.com/zb_users/upload/2025/07/20250703160538175152993840416.png",
+"description": "《红色警戒 2: 共和国之辉》是 LoadHero 在 2001 年基于《红色警戒 2》制作的玩家模组。是国内流传最广、影响最深的红警 MOD，在国内受欢迎程度甚至超过了官方版本，不过中国阵营过于强大导致平衡性问题。",
+"year": "2001 年",
+"version": "1.0",
+"downloadUrl": "https://pan.baidu.com/s/1l0a-SP1tHeZsNeMzb9Jpcw?pwd=u3yd"
+},
+{
+"id": 4,
+"title": "红色警戒 2 - 共和国之争",
+"category": "mod",
+"badge": "玩家模组",
+"badgeColor": "bg-accent",
+"image": "https://s2.loli.net/2025/07/25/tkyECarbond5eix.png",
+"description": "《红色警戒 2：共和国之争》是 2017 年由流问天制作的玩家模组，结合了原版红警与《共和国之辉》的优点，平衡了中国阵营属性，电脑 AI 更具挑战性，拥有多种游戏模式和丰富玩法。",
+"year": "2017 年",
+"version": "2.13",
+"downloadUrl": "https://pan.baidu.com/s/161lp-9INokLB4SUmUJHQnA?pwd=qu97"
+}
